@@ -1,0 +1,5 @@
+(Alt + T to open terminal)
+
+git add -A
+git commit -m "insert message here"
+git push
